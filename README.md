@@ -20,7 +20,7 @@ Building scalable SaaS products, leading digital transformation, and driving gro
 
 ## 📌 **About Me**
 
-I’m a **Product & Marketing Leader** with **8+ years of experience** delivering SaaS, cloud, and analytics-driven platforms for global clients.
+I’m a **Product & Marketing Leader** with **10+ years of experience** delivering SaaS, cloud, and analytics-driven platforms for global clients.
 
 Currently serving as **Chief Marketing Officer & Product/Delivery Head at ThoughtWin**, driving:
 
