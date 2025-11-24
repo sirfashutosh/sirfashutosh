@@ -7,10 +7,6 @@ Building scalable SaaS products, leading digital transformation, and driving gro
 
 <br/>
 
-<img src="https://via.placeholder.com/1100x250.png?text=Ash+Verma+|+Product+%26+Growth+Leader+(Banner)" />
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sirfashutosh)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:vermaashutosh513@gmail.com)
 
