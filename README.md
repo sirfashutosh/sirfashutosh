@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **Ash Verma**
-### **CMO & Product Leader | SaaS • Cloud • Analytics**
+### **CMO & AI Product Manager | SaaS • Cloud • Analytics**
 Building scalable SaaS products, leading digital transformation, and driving growth across global markets.
 
 <br/>
