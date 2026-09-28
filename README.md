@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **Ash Verma**
-### **CMO & AI Product Manager | SaaS • Cloud • Analytics**
+### **AI Product Manager (Agentic AI Expert) | AI Intelligence • SaaS • Cloud • Analytics**
 Building scalable SaaS products, leading digital transformation, and driving growth across global markets.
 
 <br/>
