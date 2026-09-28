@@ -7,7 +7,7 @@ Building scalable SaaS products, leading digital transformation, and driving gro
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sirfashutosh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashutosh-v-59665b318/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:vermaashutosh513@gmail.com)
 
 </div>
@@ -18,7 +18,7 @@ Building scalable SaaS products, leading digital transformation, and driving gro
 
 I’m a **Product & Marketing Leader** with **10+ years of experience** delivering SaaS, cloud, and analytics-driven platforms for global clients.
 
-Currently serving as **Chief Marketing Officer & Product/Delivery Head at ThoughtWin**, driving:
+Currently serving as **AI Product/Delivery Head**, driving:
 
 - 🚀 $2M+ SaaS product launches  
 - 📈 60% increase in client conversions  
@@ -97,6 +97,7 @@ I bring a hybrid strength of **business strategy**, **cloud technology**, **anal
 
 ## 🏆 **Certifications**
 
+- ✔️ **Google AI Professional Certified**  
 - ✔️ **AWS Certified Cloud Practitioner (2025–2028)**  
 - ✔️ **PMP – Project Management Professional**  
 - ✔️ **PMI Agile Project Management**  
@@ -105,8 +106,8 @@ I bring a hybrid strength of **business strategy**, **cloud technology**, **anal
 
 ## 🎖 **Awards**
 
-- 🌟 Outstanding Project Delivery – ThoughtWin  
-- 🏅 Best Team Mentor – Systango  
+- 🌟 Outstanding Project Delivery   
+- 🏅 Best Team Mentor  
 
 ---
 
